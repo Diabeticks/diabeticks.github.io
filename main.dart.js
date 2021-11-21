@@ -36573,7 +36573,7 @@ A.E8.prototype={
 K(a,b){var s,r,q,p,o,n,m,l,k,j,i=null,h=t.w,g=b.N(h).f
 h=b.N(h).f
 s=A.fL(B.Z,0,!0,0,A.fY("images/logo.png",200,200))
-r=A.b([new A.d9(15,B.a7,A.ae(1,0,0,0),B.i,10)],t.V)
+r=A.b([new A.d9(15,B.a7,A.ae(13,0,0,0),B.i,10)],t.V)
 q=A.d8(20)
 p=A.bV(i,60,i)
 o=A.bb(A.bW("Do you have Diabetes?",i,i,i,A.aY(i,i,i,i,i,i,i,i,i,i,i,20,i,B.v,i,i,!0,i,i,i,i,i,i,i,i),i,i),i,i)
